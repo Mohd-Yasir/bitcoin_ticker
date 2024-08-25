@@ -6,7 +6,7 @@ The objective of this project is to learn about using Cupertino and Material Wid
 ### What I will create
 I am going to make a crypto currency price checking app. With this app you'll be able to monitor your bitcoin investents on the move!
 
-[!Finished APP](https://github.com/londonappbrewery/Images/blob/master/bitcoin-flutter-demo.gif)
+![Finished APP](https://github.com/londonappbrewery/Images/blob/master/bitcoin-flutter-demo.gif)
 
 ## What I learned
 How to use the DropdownButton Widget from Material design.
