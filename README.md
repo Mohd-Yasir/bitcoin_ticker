@@ -1,16 +1,15 @@
-# bitcoin_ticker
+# Bitcoin Ticker 🤑
 
-A new Flutter Project to track the value of Cryptocurrency in different currencies.
+## Goal
+The objective of this project is to learn about using Cupertino and Material Widgets in parallel and providing a different user interface depending on the platform.
 
-## Getting Started
+### What I will create
+I am going to make a crypto currency price checking app. With this app you'll be able to monitor your bitcoin investents on the move!
 
-This project is a starting point for a Flutter application.
+[!Finished APP](https://github.com/londonappbrewery/Images/blob/master/bitcoin-flutter-demo.gif)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## What I learned
+How to use the DropdownButton Widget from Material design.
+How to loop through code using Dart for and for-in loops.
+How to use Cupertino Widgets in my app.
+How to check the platform my app is being run on to customise the UI for that platform.
